@@ -1,3 +1,5 @@
+# SSRN
+A PyTorch implementation of paper [Rethinking the Video Sampling and Reasoning Strategies for Temporal Sentence Grounding](https://arxiv.org/pdf/2301.00514.pdf) in EMNLP 2022.
 # Data Preparation
 - Word embedding: http://nlp.stanford.edu/data/glove.840B.300d.zip
 - ActivityNet: http://activity-net.org/challenges/2016/download.html
